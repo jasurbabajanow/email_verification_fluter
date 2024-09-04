@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600345773806",
+    "project_id": "instatok-621a5",
+    "storage_bucket": "instatok-621a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600345773806:android:19a17a2b4c33d139e5d5ff",
+        "android_client_info": {
+          "package_name": "com.example.insta_tok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPk_bOWg471x2bJU2OhkJVhB3TV3ix4KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
