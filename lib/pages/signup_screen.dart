@@ -54,7 +54,7 @@ class _SignupScreenState extends State<SignupScreen> {
     } on FirebaseAuthException catch (e) {
       print(e.code);
 
-      if (e.code == 'emai;-already-in-use') {
+      if (e.code == 'email-already-in-use') {
         SnackBarService.showSnackBar(
           context,
           'Email already in use',
